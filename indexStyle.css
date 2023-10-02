@@ -53,3 +53,11 @@ ul li a:hover {
     /* To make the background of the menu item color change when hovering */
     background-color: gray;
 }
+
+.h1InNav {
+    margin: 0;
+    margin-left: 20px;
+    float: left;
+    line-height: 100px;
+    font-size: 40px;
+}
